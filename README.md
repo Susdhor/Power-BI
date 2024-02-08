@@ -1,4 +1,4 @@
-https://github.com/Susdhor/Power-BI/blob/master/PB-Image.png
+PB-Image.png
 # Power BI Projects Showcase
 
 ![Power BI Logo](https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi_icon.svg)
