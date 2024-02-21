@@ -1,18 +1,18 @@
-### Visualization Icon 📊
+### Visualization 📊
 A visualization (or visual) is a type of chart built by Power BI designers. The visuals display the data from reports and semantic models. Because they're highly interactive, you can slice, filter, highlight, change, and even drill into visualizations.
 
-### Semantic Model Icon 🗃️
+### Semantic Model 🗃️
 A semantic model is a container of data. For example, it might be an Excel file from the World Health Organization. It might also be a company-owned database of customers or it might be a Salesforce file. Semantic models are managed by designers.
 
-### Dashboard Icon 📰
+### Dashboard 📰
 A dashboard is a single screen with tiles of interactive visuals, text, and graphics. A dashboard collects your most important metrics, on one screen, to tell a story or answer a question. The dashboard content comes from one or more reports and one or more semantic models.
 
 
-### Report Icon 📑
+### Report 📑
 A report is one or more pages of interactive visuals, text, and graphics that together make up a single report. Power BI bases a report on a single semantic model. Often, the designer organizes report pages to each address a central area of interest or answer a single question.
 
 
-### App Icon 📱
+### App 📱
 An app is a way for designers to bundle and share related dashboards, reports, and semantic models together. Business users receive some apps automatically but can go search for other apps created by colleagues or by the community. For example, out-of-the-box apps are available for external services you may already use, like Google Analytics and Microsoft Dynamics CRM.
 
 # Workspaces in Power BI
