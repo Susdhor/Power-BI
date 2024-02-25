@@ -46,4 +46,4 @@ A meticulous stakeholder mapping analysis was conducted to identify key players 
 
 To enhance productivity, we implemented a Kanban board for efficient task assignment and tracking. This visual representation of project progress ensures a streamlined workflow and effective collaboration.
 
-Feel free to explore the repository, dive into the details, and leverage the insights and tools we've developed to elevate your business analytics journey! 📊💡
+Feel free to explore the repository, dive into the details, and leverage the insights and tools we've developed to elevate your business analytics journey! 📊💡Thanks a lot

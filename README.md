@@ -1,5 +1,5 @@
+![alt text](PB-Image.png)
 # Power BI Projects Showcase
-
 ![Power BI Logo](https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi_icon.svg)
 
 ## Overview
