@@ -1,4 +1,4 @@
-![PB]https://github.com/Susdhor/Power-BI/blob/master/PB-Image.png)
+![alt text](image.png)
 ![PB](../PB-Image.png)
 # Power BI Computer Business Insights
 
